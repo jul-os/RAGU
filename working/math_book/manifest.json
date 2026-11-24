@@ -1,0 +1,4050 @@
+{
+  "source_pdf": "/home/julia/code/RAGU/Основы методов оптимизации. 5-е изд, стер.{Лесин В. В., Лисовец Ю. П.}(2022, Издательство &quot_Лань&quot_){108001360} libgen.li.pdf",
+  "page_range": [
+    1,
+    342
+  ],
+  "total_pdf_pages": 342,
+  "ocr_engine": "tesseract",
+  "dpi": 300,
+  "language": "rus+eng",
+  "ragu_input": "/home/julia/code/RAGU/working/math_book/ragu_docs",
+  "pages": [
+    {
+      "page": 1,
+      "source": "embedded-text",
+      "text_path": "ragu_docs/pages/page-0001.md",
+      "image_path": null,
+      "character_count": 189,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 2,
+      "source": "embedded-text",
+      "text_path": "ragu_docs/pages/page-0002.md",
+      "image_path": null,
+      "character_count": 1452,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 3,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0003.md",
+      "image_path": "pages/page-0003.png",
+      "character_count": 1706,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 4,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0004.md",
+      "image_path": "pages/page-0004.png",
+      "character_count": 2531,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 5,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0005.md",
+      "image_path": "pages/page-0005.png",
+      "character_count": 2583,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 6,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0006.md",
+      "image_path": "pages/page-0006.png",
+      "character_count": 2262,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 7,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0007.md",
+      "image_path": "pages/page-0007.png",
+      "character_count": 1893,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 8,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0008.md",
+      "image_path": "pages/page-0008.png",
+      "character_count": 2602,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 9,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0009.md",
+      "image_path": "pages/page-0009.png",
+      "character_count": 1916,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 10,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0010.md",
+      "image_path": "pages/page-0010.png",
+      "character_count": 1774,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 11,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0011.md",
+      "image_path": "pages/page-0011.png",
+      "character_count": 2265,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 12,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0012.md",
+      "image_path": "pages/page-0012.png",
+      "character_count": 2213,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 13,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0013.md",
+      "image_path": "pages/page-0013.png",
+      "character_count": 2293,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 14,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0014.md",
+      "image_path": "pages/page-0014.png",
+      "character_count": 1992,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 15,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0015.md",
+      "image_path": "pages/page-0015.png",
+      "character_count": 2317,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 16,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0016.md",
+      "image_path": "pages/page-0016.png",
+      "character_count": 1843,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 17,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0017.md",
+      "image_path": "pages/page-0017.png",
+      "character_count": 1879,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 18,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0018.md",
+      "image_path": "pages/page-0018.png",
+      "character_count": 2019,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 19,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0019.md",
+      "image_path": "pages/page-0019.png",
+      "character_count": 1030,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 20,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0020.md",
+      "image_path": "pages/page-0020.png",
+      "character_count": 1879,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 21,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0021.md",
+      "image_path": "pages/page-0021.png",
+      "character_count": 2478,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 22,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0022.md",
+      "image_path": "pages/page-0022.png",
+      "character_count": 1933,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 23,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0023.md",
+      "image_path": "pages/page-0023.png",
+      "character_count": 1131,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 24,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0024.md",
+      "image_path": "pages/page-0024.png",
+      "character_count": 1715,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 25,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0025.md",
+      "image_path": "pages/page-0025.png",
+      "character_count": 1957,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 26,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0026.md",
+      "image_path": "pages/page-0026.png",
+      "character_count": 1208,
+      "formula_candidate_count": 12,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 27,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0027.md",
+      "image_path": "pages/page-0027.png",
+      "character_count": 1727,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 28,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0028.md",
+      "image_path": "pages/page-0028.png",
+      "character_count": 1652,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 29,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0029.md",
+      "image_path": "pages/page-0029.png",
+      "character_count": 1958,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 30,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0030.md",
+      "image_path": "pages/page-0030.png",
+      "character_count": 1716,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 31,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0031.md",
+      "image_path": "pages/page-0031.png",
+      "character_count": 1843,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 32,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0032.md",
+      "image_path": "pages/page-0032.png",
+      "character_count": 2088,
+      "formula_candidate_count": 13,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 33,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0033.md",
+      "image_path": "pages/page-0033.png",
+      "character_count": 1741,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 34,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0034.md",
+      "image_path": "pages/page-0034.png",
+      "character_count": 1575,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 35,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0035.md",
+      "image_path": "pages/page-0035.png",
+      "character_count": 1959,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 36,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0036.md",
+      "image_path": "pages/page-0036.png",
+      "character_count": 1881,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 37,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0037.md",
+      "image_path": "pages/page-0037.png",
+      "character_count": 1335,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 38,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0038.md",
+      "image_path": "pages/page-0038.png",
+      "character_count": 1406,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 39,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0039.md",
+      "image_path": "pages/page-0039.png",
+      "character_count": 1580,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 40,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0040.md",
+      "image_path": "pages/page-0040.png",
+      "character_count": 1470,
+      "formula_candidate_count": 12,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 41,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0041.md",
+      "image_path": "pages/page-0041.png",
+      "character_count": 1547,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 42,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0042.md",
+      "image_path": "pages/page-0042.png",
+      "character_count": 1547,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 43,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0043.md",
+      "image_path": "pages/page-0043.png",
+      "character_count": 1739,
+      "formula_candidate_count": 12,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 44,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0044.md",
+      "image_path": "pages/page-0044.png",
+      "character_count": 1848,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 45,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0045.md",
+      "image_path": "pages/page-0045.png",
+      "character_count": 1810,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 46,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0046.md",
+      "image_path": "pages/page-0046.png",
+      "character_count": 2043,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 47,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0047.md",
+      "image_path": "pages/page-0047.png",
+      "character_count": 1410,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 48,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0048.md",
+      "image_path": "pages/page-0048.png",
+      "character_count": 2101,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 49,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0049.md",
+      "image_path": "pages/page-0049.png",
+      "character_count": 2138,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 50,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0050.md",
+      "image_path": "pages/page-0050.png",
+      "character_count": 2072,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 51,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0051.md",
+      "image_path": "pages/page-0051.png",
+      "character_count": 780,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 52,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0052.md",
+      "image_path": "pages/page-0052.png",
+      "character_count": 1723,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 53,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0053.md",
+      "image_path": "pages/page-0053.png",
+      "character_count": 1668,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 54,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0054.md",
+      "image_path": "pages/page-0054.png",
+      "character_count": 1470,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 55,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0055.md",
+      "image_path": "pages/page-0055.png",
+      "character_count": 1559,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 56,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0056.md",
+      "image_path": "pages/page-0056.png",
+      "character_count": 1557,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 57,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0057.md",
+      "image_path": "pages/page-0057.png",
+      "character_count": 2066,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 58,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0058.md",
+      "image_path": "pages/page-0058.png",
+      "character_count": 1787,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 59,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0059.md",
+      "image_path": "pages/page-0059.png",
+      "character_count": 1530,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 60,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0060.md",
+      "image_path": "pages/page-0060.png",
+      "character_count": 943,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 61,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0061.md",
+      "image_path": "pages/page-0061.png",
+      "character_count": 1372,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 62,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0062.md",
+      "image_path": "pages/page-0062.png",
+      "character_count": 1693,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 63,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0063.md",
+      "image_path": "pages/page-0063.png",
+      "character_count": 1913,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 64,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0064.md",
+      "image_path": "pages/page-0064.png",
+      "character_count": 2087,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 65,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0065.md",
+      "image_path": "pages/page-0065.png",
+      "character_count": 2055,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 66,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0066.md",
+      "image_path": "pages/page-0066.png",
+      "character_count": 486,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 67,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0067.md",
+      "image_path": "pages/page-0067.png",
+      "character_count": 1220,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 68,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0068.md",
+      "image_path": "pages/page-0068.png",
+      "character_count": 1303,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 69,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0069.md",
+      "image_path": "pages/page-0069.png",
+      "character_count": 1215,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 70,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0070.md",
+      "image_path": "pages/page-0070.png",
+      "character_count": 1581,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 71,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0071.md",
+      "image_path": "pages/page-0071.png",
+      "character_count": 1574,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 72,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0072.md",
+      "image_path": "pages/page-0072.png",
+      "character_count": 1240,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 73,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0073.md",
+      "image_path": "pages/page-0073.png",
+      "character_count": 1373,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 74,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0074.md",
+      "image_path": "pages/page-0074.png",
+      "character_count": 1293,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 75,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0075.md",
+      "image_path": "pages/page-0075.png",
+      "character_count": 1872,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 76,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0076.md",
+      "image_path": "pages/page-0076.png",
+      "character_count": 2325,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 77,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0077.md",
+      "image_path": "pages/page-0077.png",
+      "character_count": 1341,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 78,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0078.md",
+      "image_path": "pages/page-0078.png",
+      "character_count": 868,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 79,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0079.md",
+      "image_path": "pages/page-0079.png",
+      "character_count": 1763,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 80,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0080.md",
+      "image_path": "pages/page-0080.png",
+      "character_count": 1432,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 81,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0081.md",
+      "image_path": "pages/page-0081.png",
+      "character_count": 1999,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 82,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0082.md",
+      "image_path": "pages/page-0082.png",
+      "character_count": 1050,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 83,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0083.md",
+      "image_path": "pages/page-0083.png",
+      "character_count": 1533,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 84,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0084.md",
+      "image_path": "pages/page-0084.png",
+      "character_count": 949,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 85,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0085.md",
+      "image_path": "pages/page-0085.png",
+      "character_count": 1407,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 86,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0086.md",
+      "image_path": "pages/page-0086.png",
+      "character_count": 1113,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 87,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0087.md",
+      "image_path": "pages/page-0087.png",
+      "character_count": 2059,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 88,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0088.md",
+      "image_path": "pages/page-0088.png",
+      "character_count": 1403,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 89,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0089.md",
+      "image_path": "pages/page-0089.png",
+      "character_count": 1518,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 90,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0090.md",
+      "image_path": "pages/page-0090.png",
+      "character_count": 1538,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 91,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0091.md",
+      "image_path": "pages/page-0091.png",
+      "character_count": 2004,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 92,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0092.md",
+      "image_path": "pages/page-0092.png",
+      "character_count": 1801,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 93,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0093.md",
+      "image_path": "pages/page-0093.png",
+      "character_count": 1756,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 94,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0094.md",
+      "image_path": "pages/page-0094.png",
+      "character_count": 1317,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 95,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0095.md",
+      "image_path": "pages/page-0095.png",
+      "character_count": 983,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 96,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0096.md",
+      "image_path": "pages/page-0096.png",
+      "character_count": 1877,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 97,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0097.md",
+      "image_path": "pages/page-0097.png",
+      "character_count": 1329,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 98,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0098.md",
+      "image_path": "pages/page-0098.png",
+      "character_count": 1219,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 99,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0099.md",
+      "image_path": "pages/page-0099.png",
+      "character_count": 1922,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 100,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0100.md",
+      "image_path": "pages/page-0100.png",
+      "character_count": 1801,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 101,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0101.md",
+      "image_path": "pages/page-0101.png",
+      "character_count": 1408,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 102,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0102.md",
+      "image_path": "pages/page-0102.png",
+      "character_count": 1877,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 103,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0103.md",
+      "image_path": "pages/page-0103.png",
+      "character_count": 1346,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 104,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0104.md",
+      "image_path": "pages/page-0104.png",
+      "character_count": 1334,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 105,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0105.md",
+      "image_path": "pages/page-0105.png",
+      "character_count": 1084,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 106,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0106.md",
+      "image_path": "pages/page-0106.png",
+      "character_count": 1716,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 107,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0107.md",
+      "image_path": "pages/page-0107.png",
+      "character_count": 2023,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 108,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0108.md",
+      "image_path": "pages/page-0108.png",
+      "character_count": 1635,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 109,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0109.md",
+      "image_path": "pages/page-0109.png",
+      "character_count": 1721,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 110,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0110.md",
+      "image_path": "pages/page-0110.png",
+      "character_count": 1638,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 111,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0111.md",
+      "image_path": "pages/page-0111.png",
+      "character_count": 2078,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 112,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0112.md",
+      "image_path": "pages/page-0112.png",
+      "character_count": 1476,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 113,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0113.md",
+      "image_path": "pages/page-0113.png",
+      "character_count": 1551,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 114,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0114.md",
+      "image_path": "pages/page-0114.png",
+      "character_count": 1163,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 115,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0115.md",
+      "image_path": "pages/page-0115.png",
+      "character_count": 1665,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 116,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0116.md",
+      "image_path": "pages/page-0116.png",
+      "character_count": 1663,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 117,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0117.md",
+      "image_path": "pages/page-0117.png",
+      "character_count": 1876,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 118,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0118.md",
+      "image_path": "pages/page-0118.png",
+      "character_count": 1735,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 119,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0119.md",
+      "image_path": "pages/page-0119.png",
+      "character_count": 1504,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 120,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0120.md",
+      "image_path": "pages/page-0120.png",
+      "character_count": 1430,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 121,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0121.md",
+      "image_path": "pages/page-0121.png",
+      "character_count": 1371,
+      "formula_candidate_count": 16,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 122,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0122.md",
+      "image_path": "pages/page-0122.png",
+      "character_count": 1904,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 123,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0123.md",
+      "image_path": "pages/page-0123.png",
+      "character_count": 2381,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 124,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0124.md",
+      "image_path": "pages/page-0124.png",
+      "character_count": 1077,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 125,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0125.md",
+      "image_path": "pages/page-0125.png",
+      "character_count": 1532,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 126,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0126.md",
+      "image_path": "pages/page-0126.png",
+      "character_count": 2115,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 127,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0127.md",
+      "image_path": "pages/page-0127.png",
+      "character_count": 1743,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 128,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0128.md",
+      "image_path": "pages/page-0128.png",
+      "character_count": 2186,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 129,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0129.md",
+      "image_path": "pages/page-0129.png",
+      "character_count": 1769,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 130,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0130.md",
+      "image_path": "pages/page-0130.png",
+      "character_count": 1789,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 131,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0131.md",
+      "image_path": "pages/page-0131.png",
+      "character_count": 1718,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 132,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0132.md",
+      "image_path": "pages/page-0132.png",
+      "character_count": 1574,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 133,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0133.md",
+      "image_path": "pages/page-0133.png",
+      "character_count": 1340,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 134,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0134.md",
+      "image_path": "pages/page-0134.png",
+      "character_count": 1639,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 135,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0135.md",
+      "image_path": "pages/page-0135.png",
+      "character_count": 1894,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 136,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0136.md",
+      "image_path": "pages/page-0136.png",
+      "character_count": 1414,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 137,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0137.md",
+      "image_path": "pages/page-0137.png",
+      "character_count": 1220,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 138,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0138.md",
+      "image_path": "pages/page-0138.png",
+      "character_count": 1530,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 139,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0139.md",
+      "image_path": "pages/page-0139.png",
+      "character_count": 952,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 140,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0140.md",
+      "image_path": "pages/page-0140.png",
+      "character_count": 1352,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 141,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0141.md",
+      "image_path": "pages/page-0141.png",
+      "character_count": 1237,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 142,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0142.md",
+      "image_path": "pages/page-0142.png",
+      "character_count": 1213,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 143,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0143.md",
+      "image_path": "pages/page-0143.png",
+      "character_count": 1159,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 144,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0144.md",
+      "image_path": "pages/page-0144.png",
+      "character_count": 1535,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 145,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0145.md",
+      "image_path": "pages/page-0145.png",
+      "character_count": 958,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 146,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0146.md",
+      "image_path": "pages/page-0146.png",
+      "character_count": 848,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 147,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0147.md",
+      "image_path": "pages/page-0147.png",
+      "character_count": 1163,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 148,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0148.md",
+      "image_path": "pages/page-0148.png",
+      "character_count": 1417,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 149,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0149.md",
+      "image_path": "pages/page-0149.png",
+      "character_count": 1209,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 150,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0150.md",
+      "image_path": "pages/page-0150.png",
+      "character_count": 1692,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 151,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0151.md",
+      "image_path": "pages/page-0151.png",
+      "character_count": 1660,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 152,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0152.md",
+      "image_path": "pages/page-0152.png",
+      "character_count": 1482,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 153,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0153.md",
+      "image_path": "pages/page-0153.png",
+      "character_count": 1357,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 154,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0154.md",
+      "image_path": "pages/page-0154.png",
+      "character_count": 1390,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 155,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0155.md",
+      "image_path": "pages/page-0155.png",
+      "character_count": 1541,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 156,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0156.md",
+      "image_path": "pages/page-0156.png",
+      "character_count": 1691,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 157,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0157.md",
+      "image_path": "pages/page-0157.png",
+      "character_count": 1611,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 158,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0158.md",
+      "image_path": "pages/page-0158.png",
+      "character_count": 1368,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 159,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0159.md",
+      "image_path": "pages/page-0159.png",
+      "character_count": 2129,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 160,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0160.md",
+      "image_path": "pages/page-0160.png",
+      "character_count": 1360,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 161,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0161.md",
+      "image_path": "pages/page-0161.png",
+      "character_count": 1409,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 162,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0162.md",
+      "image_path": "pages/page-0162.png",
+      "character_count": 1952,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 163,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0163.md",
+      "image_path": "pages/page-0163.png",
+      "character_count": 1431,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 164,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0164.md",
+      "image_path": "pages/page-0164.png",
+      "character_count": 2002,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 165,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0165.md",
+      "image_path": "pages/page-0165.png",
+      "character_count": 1708,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 166,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0166.md",
+      "image_path": "pages/page-0166.png",
+      "character_count": 834,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 167,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0167.md",
+      "image_path": "pages/page-0167.png",
+      "character_count": 1108,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 168,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0168.md",
+      "image_path": "pages/page-0168.png",
+      "character_count": 1017,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 169,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0169.md",
+      "image_path": "pages/page-0169.png",
+      "character_count": 869,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 170,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0170.md",
+      "image_path": "pages/page-0170.png",
+      "character_count": 1545,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 171,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0171.md",
+      "image_path": "pages/page-0171.png",
+      "character_count": 1075,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 172,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0172.md",
+      "image_path": "pages/page-0172.png",
+      "character_count": 792,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 173,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0173.md",
+      "image_path": "pages/page-0173.png",
+      "character_count": 436,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 174,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0174.md",
+      "image_path": "pages/page-0174.png",
+      "character_count": 1134,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 175,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0175.md",
+      "image_path": "pages/page-0175.png",
+      "character_count": 2350,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 176,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0176.md",
+      "image_path": "pages/page-0176.png",
+      "character_count": 1043,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 177,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0177.md",
+      "image_path": "pages/page-0177.png",
+      "character_count": 1825,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 178,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0178.md",
+      "image_path": "pages/page-0178.png",
+      "character_count": 1146,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 179,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0179.md",
+      "image_path": "pages/page-0179.png",
+      "character_count": 1903,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 180,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0180.md",
+      "image_path": "pages/page-0180.png",
+      "character_count": 1470,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 181,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0181.md",
+      "image_path": "pages/page-0181.png",
+      "character_count": 1739,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 182,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0182.md",
+      "image_path": "pages/page-0182.png",
+      "character_count": 1673,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 183,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0183.md",
+      "image_path": "pages/page-0183.png",
+      "character_count": 1849,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 184,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0184.md",
+      "image_path": "pages/page-0184.png",
+      "character_count": 1143,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 185,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0185.md",
+      "image_path": "pages/page-0185.png",
+      "character_count": 2316,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 186,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0186.md",
+      "image_path": "pages/page-0186.png",
+      "character_count": 601,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 187,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0187.md",
+      "image_path": "pages/page-0187.png",
+      "character_count": 890,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 188,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0188.md",
+      "image_path": "pages/page-0188.png",
+      "character_count": 1123,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 189,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0189.md",
+      "image_path": "pages/page-0189.png",
+      "character_count": 1163,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 190,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0190.md",
+      "image_path": "pages/page-0190.png",
+      "character_count": 863,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 191,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0191.md",
+      "image_path": "pages/page-0191.png",
+      "character_count": 1733,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 192,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0192.md",
+      "image_path": "pages/page-0192.png",
+      "character_count": 287,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 193,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0193.md",
+      "image_path": "pages/page-0193.png",
+      "character_count": 1171,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 194,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0194.md",
+      "image_path": "pages/page-0194.png",
+      "character_count": 1609,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 195,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0195.md",
+      "image_path": "pages/page-0195.png",
+      "character_count": 1695,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 196,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0196.md",
+      "image_path": "pages/page-0196.png",
+      "character_count": 1692,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 197,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0197.md",
+      "image_path": "pages/page-0197.png",
+      "character_count": 1051,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 198,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0198.md",
+      "image_path": "pages/page-0198.png",
+      "character_count": 1350,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 199,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0199.md",
+      "image_path": "pages/page-0199.png",
+      "character_count": 1435,
+      "formula_candidate_count": 13,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 200,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0200.md",
+      "image_path": "pages/page-0200.png",
+      "character_count": 1132,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 201,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0201.md",
+      "image_path": "pages/page-0201.png",
+      "character_count": 1319,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 202,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0202.md",
+      "image_path": "pages/page-0202.png",
+      "character_count": 1760,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 203,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0203.md",
+      "image_path": "pages/page-0203.png",
+      "character_count": 1703,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 204,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0204.md",
+      "image_path": "pages/page-0204.png",
+      "character_count": 1646,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 205,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0205.md",
+      "image_path": "pages/page-0205.png",
+      "character_count": 1454,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 206,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0206.md",
+      "image_path": "pages/page-0206.png",
+      "character_count": 849,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 207,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0207.md",
+      "image_path": "pages/page-0207.png",
+      "character_count": 1380,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 208,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0208.md",
+      "image_path": "pages/page-0208.png",
+      "character_count": 1508,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 209,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0209.md",
+      "image_path": "pages/page-0209.png",
+      "character_count": 1336,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 210,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0210.md",
+      "image_path": "pages/page-0210.png",
+      "character_count": 1326,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 211,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0211.md",
+      "image_path": "pages/page-0211.png",
+      "character_count": 1336,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 212,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0212.md",
+      "image_path": "pages/page-0212.png",
+      "character_count": 1640,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 213,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0213.md",
+      "image_path": "pages/page-0213.png",
+      "character_count": 961,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 214,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0214.md",
+      "image_path": "pages/page-0214.png",
+      "character_count": 1174,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 215,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0215.md",
+      "image_path": "pages/page-0215.png",
+      "character_count": 1123,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 216,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0216.md",
+      "image_path": "pages/page-0216.png",
+      "character_count": 1460,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 217,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0217.md",
+      "image_path": "pages/page-0217.png",
+      "character_count": 975,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 218,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0218.md",
+      "image_path": "pages/page-0218.png",
+      "character_count": 1790,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 219,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0219.md",
+      "image_path": "pages/page-0219.png",
+      "character_count": 1315,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 220,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0220.md",
+      "image_path": "pages/page-0220.png",
+      "character_count": 1087,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 221,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0221.md",
+      "image_path": "pages/page-0221.png",
+      "character_count": 1461,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 222,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0222.md",
+      "image_path": "pages/page-0222.png",
+      "character_count": 1541,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 223,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0223.md",
+      "image_path": "pages/page-0223.png",
+      "character_count": 1486,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 224,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0224.md",
+      "image_path": "pages/page-0224.png",
+      "character_count": 1990,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 225,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0225.md",
+      "image_path": "pages/page-0225.png",
+      "character_count": 1259,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 226,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0226.md",
+      "image_path": "pages/page-0226.png",
+      "character_count": 1713,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 227,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0227.md",
+      "image_path": "pages/page-0227.png",
+      "character_count": 1935,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 228,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0228.md",
+      "image_path": "pages/page-0228.png",
+      "character_count": 2117,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 229,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0229.md",
+      "image_path": "pages/page-0229.png",
+      "character_count": 1551,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 230,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0230.md",
+      "image_path": "pages/page-0230.png",
+      "character_count": 1393,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 231,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0231.md",
+      "image_path": "pages/page-0231.png",
+      "character_count": 1433,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 232,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0232.md",
+      "image_path": "pages/page-0232.png",
+      "character_count": 919,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 233,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0233.md",
+      "image_path": "pages/page-0233.png",
+      "character_count": 2015,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 234,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0234.md",
+      "image_path": "pages/page-0234.png",
+      "character_count": 1816,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 235,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0235.md",
+      "image_path": "pages/page-0235.png",
+      "character_count": 1136,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 236,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0236.md",
+      "image_path": "pages/page-0236.png",
+      "character_count": 664,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 237,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0237.md",
+      "image_path": "pages/page-0237.png",
+      "character_count": 1162,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 238,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0238.md",
+      "image_path": "pages/page-0238.png",
+      "character_count": 1629,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 239,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0239.md",
+      "image_path": "pages/page-0239.png",
+      "character_count": 1610,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 240,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0240.md",
+      "image_path": "pages/page-0240.png",
+      "character_count": 1566,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 241,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0241.md",
+      "image_path": "pages/page-0241.png",
+      "character_count": 1170,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 242,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0242.md",
+      "image_path": "pages/page-0242.png",
+      "character_count": 1614,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 243,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0243.md",
+      "image_path": "pages/page-0243.png",
+      "character_count": 2045,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 244,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0244.md",
+      "image_path": "pages/page-0244.png",
+      "character_count": 1770,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 245,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0245.md",
+      "image_path": "pages/page-0245.png",
+      "character_count": 1529,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 246,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0246.md",
+      "image_path": "pages/page-0246.png",
+      "character_count": 1060,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 247,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0247.md",
+      "image_path": "pages/page-0247.png",
+      "character_count": 2249,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 248,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0248.md",
+      "image_path": "pages/page-0248.png",
+      "character_count": 1695,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 249,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0249.md",
+      "image_path": "pages/page-0249.png",
+      "character_count": 1724,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 250,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0250.md",
+      "image_path": "pages/page-0250.png",
+      "character_count": 1352,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 251,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0251.md",
+      "image_path": "pages/page-0251.png",
+      "character_count": 1614,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 252,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0252.md",
+      "image_path": "pages/page-0252.png",
+      "character_count": 936,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 253,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0253.md",
+      "image_path": "pages/page-0253.png",
+      "character_count": 2142,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 254,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0254.md",
+      "image_path": "pages/page-0254.png",
+      "character_count": 1924,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 255,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0255.md",
+      "image_path": "pages/page-0255.png",
+      "character_count": 1819,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 256,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0256.md",
+      "image_path": "pages/page-0256.png",
+      "character_count": 1440,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 257,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0257.md",
+      "image_path": "pages/page-0257.png",
+      "character_count": 1839,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 258,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0258.md",
+      "image_path": "pages/page-0258.png",
+      "character_count": 1108,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 259,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0259.md",
+      "image_path": "pages/page-0259.png",
+      "character_count": 1546,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 260,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0260.md",
+      "image_path": "pages/page-0260.png",
+      "character_count": 1395,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 261,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0261.md",
+      "image_path": "pages/page-0261.png",
+      "character_count": 1163,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 262,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0262.md",
+      "image_path": "pages/page-0262.png",
+      "character_count": 1719,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 263,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0263.md",
+      "image_path": "pages/page-0263.png",
+      "character_count": 946,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 264,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0264.md",
+      "image_path": "pages/page-0264.png",
+      "character_count": 1391,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 265,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0265.md",
+      "image_path": "pages/page-0265.png",
+      "character_count": 2435,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 266,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0266.md",
+      "image_path": "pages/page-0266.png",
+      "character_count": 2288,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 267,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0267.md",
+      "image_path": "pages/page-0267.png",
+      "character_count": 1896,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 268,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0268.md",
+      "image_path": "pages/page-0268.png",
+      "character_count": 1892,
+      "formula_candidate_count": 1,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 269,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0269.md",
+      "image_path": "pages/page-0269.png",
+      "character_count": 1372,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 270,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0270.md",
+      "image_path": "pages/page-0270.png",
+      "character_count": 1945,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 271,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0271.md",
+      "image_path": "pages/page-0271.png",
+      "character_count": 2006,
+      "formula_candidate_count": 12,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 272,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0272.md",
+      "image_path": "pages/page-0272.png",
+      "character_count": 2069,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 273,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0273.md",
+      "image_path": "pages/page-0273.png",
+      "character_count": 2289,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 274,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0274.md",
+      "image_path": "pages/page-0274.png",
+      "character_count": 2060,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 275,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0275.md",
+      "image_path": "pages/page-0275.png",
+      "character_count": 1564,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 276,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0276.md",
+      "image_path": "pages/page-0276.png",
+      "character_count": 1353,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 277,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0277.md",
+      "image_path": "pages/page-0277.png",
+      "character_count": 1788,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 278,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0278.md",
+      "image_path": "pages/page-0278.png",
+      "character_count": 1753,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 279,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0279.md",
+      "image_path": "pages/page-0279.png",
+      "character_count": 2110,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 280,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0280.md",
+      "image_path": "pages/page-0280.png",
+      "character_count": 1369,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 281,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0281.md",
+      "image_path": "pages/page-0281.png",
+      "character_count": 1259,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 282,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0282.md",
+      "image_path": "pages/page-0282.png",
+      "character_count": 1903,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 283,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0283.md",
+      "image_path": "pages/page-0283.png",
+      "character_count": 1646,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 284,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0284.md",
+      "image_path": "pages/page-0284.png",
+      "character_count": 1544,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 285,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0285.md",
+      "image_path": "pages/page-0285.png",
+      "character_count": 1592,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 286,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0286.md",
+      "image_path": "pages/page-0286.png",
+      "character_count": 1483,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 287,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0287.md",
+      "image_path": "pages/page-0287.png",
+      "character_count": 1878,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 288,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0288.md",
+      "image_path": "pages/page-0288.png",
+      "character_count": 1448,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 289,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0289.md",
+      "image_path": "pages/page-0289.png",
+      "character_count": 1792,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 290,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0290.md",
+      "image_path": "pages/page-0290.png",
+      "character_count": 1673,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 291,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0291.md",
+      "image_path": "pages/page-0291.png",
+      "character_count": 1310,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 292,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0292.md",
+      "image_path": "pages/page-0292.png",
+      "character_count": 1475,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 293,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0293.md",
+      "image_path": "pages/page-0293.png",
+      "character_count": 1566,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 294,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0294.md",
+      "image_path": "pages/page-0294.png",
+      "character_count": 1189,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 295,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0295.md",
+      "image_path": "pages/page-0295.png",
+      "character_count": 1430,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 296,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0296.md",
+      "image_path": "pages/page-0296.png",
+      "character_count": 1979,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 297,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0297.md",
+      "image_path": "pages/page-0297.png",
+      "character_count": 1543,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 298,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0298.md",
+      "image_path": "pages/page-0298.png",
+      "character_count": 1120,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 299,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0299.md",
+      "image_path": "pages/page-0299.png",
+      "character_count": 1585,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 300,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0300.md",
+      "image_path": "pages/page-0300.png",
+      "character_count": 1705,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 301,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0301.md",
+      "image_path": "pages/page-0301.png",
+      "character_count": 1752,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 302,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0302.md",
+      "image_path": "pages/page-0302.png",
+      "character_count": 1746,
+      "formula_candidate_count": 11,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 303,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0303.md",
+      "image_path": "pages/page-0303.png",
+      "character_count": 1518,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 304,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0304.md",
+      "image_path": "pages/page-0304.png",
+      "character_count": 1779,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 305,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0305.md",
+      "image_path": "pages/page-0305.png",
+      "character_count": 1341,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 306,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0306.md",
+      "image_path": "pages/page-0306.png",
+      "character_count": 1628,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 307,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0307.md",
+      "image_path": "pages/page-0307.png",
+      "character_count": 2262,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 308,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0308.md",
+      "image_path": "pages/page-0308.png",
+      "character_count": 1723,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 309,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0309.md",
+      "image_path": "pages/page-0309.png",
+      "character_count": 1115,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 310,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0310.md",
+      "image_path": "pages/page-0310.png",
+      "character_count": 1500,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 311,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0311.md",
+      "image_path": "pages/page-0311.png",
+      "character_count": 1216,
+      "formula_candidate_count": 8,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 312,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0312.md",
+      "image_path": "pages/page-0312.png",
+      "character_count": 1391,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 313,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0313.md",
+      "image_path": "pages/page-0313.png",
+      "character_count": 1492,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 314,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0314.md",
+      "image_path": "pages/page-0314.png",
+      "character_count": 1342,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 315,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0315.md",
+      "image_path": "pages/page-0315.png",
+      "character_count": 1373,
+      "formula_candidate_count": 7,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 316,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0316.md",
+      "image_path": "pages/page-0316.png",
+      "character_count": 1534,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 317,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0317.md",
+      "image_path": "pages/page-0317.png",
+      "character_count": 904,
+      "formula_candidate_count": 10,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 318,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0318.md",
+      "image_path": "pages/page-0318.png",
+      "character_count": 1948,
+      "formula_candidate_count": 15,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 319,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0319.md",
+      "image_path": "pages/page-0319.png",
+      "character_count": 1910,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 320,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0320.md",
+      "image_path": "pages/page-0320.png",
+      "character_count": 1296,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 321,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0321.md",
+      "image_path": "pages/page-0321.png",
+      "character_count": 1678,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 322,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0322.md",
+      "image_path": "pages/page-0322.png",
+      "character_count": 2461,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 323,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0323.md",
+      "image_path": "pages/page-0323.png",
+      "character_count": 1693,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 324,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0324.md",
+      "image_path": "pages/page-0324.png",
+      "character_count": 1685,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 325,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0325.md",
+      "image_path": "pages/page-0325.png",
+      "character_count": 2026,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 326,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0326.md",
+      "image_path": "pages/page-0326.png",
+      "character_count": 1466,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 327,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0327.md",
+      "image_path": "pages/page-0327.png",
+      "character_count": 1845,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 328,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0328.md",
+      "image_path": "pages/page-0328.png",
+      "character_count": 1377,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 329,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0329.md",
+      "image_path": "pages/page-0329.png",
+      "character_count": 1203,
+      "formula_candidate_count": 5,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 330,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0330.md",
+      "image_path": "pages/page-0330.png",
+      "character_count": 891,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 331,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0331.md",
+      "image_path": "pages/page-0331.png",
+      "character_count": 1580,
+      "formula_candidate_count": 3,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 332,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0332.md",
+      "image_path": "pages/page-0332.png",
+      "character_count": 1186,
+      "formula_candidate_count": 9,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 333,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0333.md",
+      "image_path": "pages/page-0333.png",
+      "character_count": 1335,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 334,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0334.md",
+      "image_path": "pages/page-0334.png",
+      "character_count": 1551,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 335,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0335.md",
+      "image_path": "pages/page-0335.png",
+      "character_count": 1509,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 336,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0336.md",
+      "image_path": "pages/page-0336.png",
+      "character_count": 1324,
+      "formula_candidate_count": 4,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 337,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0337.md",
+      "image_path": "pages/page-0337.png",
+      "character_count": 1300,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 338,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0338.md",
+      "image_path": "pages/page-0338.png",
+      "character_count": 2110,
+      "formula_candidate_count": 6,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 339,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0339.md",
+      "image_path": "pages/page-0339.png",
+      "character_count": 1764,
+      "formula_candidate_count": 2,
+      "needs_review": true,
+      "review_reasons": [
+        "formula candidates require verification"
+      ]
+    },
+    {
+      "page": 340,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0340.md",
+      "image_path": "pages/page-0340.png",
+      "character_count": 1508,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 341,
+      "source": "tesseract",
+      "text_path": "ragu_docs/pages/page-0341.md",
+      "image_path": "pages/page-0341.png",
+      "character_count": 1145,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    },
+    {
+      "page": 342,
+      "source": "embedded-text",
+      "text_path": "ragu_docs/pages/page-0342.md",
+      "image_path": null,
+      "character_count": 1056,
+      "formula_candidate_count": 0,
+      "needs_review": false,
+      "review_reasons": []
+    }
+  ]
+}
